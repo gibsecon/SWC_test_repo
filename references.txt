@@ -2,4 +2,4 @@ Exercise 1
 Refs for dissertation
 Labou et al. 2016
 Gibson 2017
-Purposeful merge conflict
+Purposeful merge
